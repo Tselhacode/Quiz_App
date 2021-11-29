@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name= "question_one">Toronto is the capital city of Canada</string>
+    <string name= "question_two">The Big Apple is a nickname given to Washington D.C in 1971.</string>
+    <string name="question_three">Peanuts are not nuts!</string>
+    <string name = "question_four">People may sneeze or cough while sleeping deeply.</string>
+    <string name = "question_five">Light travels in a straight line.</string>
+    <string name = "question_six">Copyrights depreciate over time.</string>
+    <string name = "question_seven">Muddy York is a nickname for New York in the Winter.</string>
+    <string name = "question_eight">Emus can’t fly.</string>
+    <string name = "question_nine">Electrons move faster than the speed of light.</string>
+    <string name = "question_ten">The Mona Lisa was stolen from the Louvre in 1911.</string>
+    <string name = "true_btn">TRUE</string>
+    <string name = "false_btn">FALSE</string>
+</resources>
